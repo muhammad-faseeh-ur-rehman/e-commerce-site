@@ -59,7 +59,7 @@ const products = [
     name: "Cloud Glasses",
     category: "Objects",
     price: 42,
-    tag: "Set of 2",
+    tag: "Set of 23",
     image:
       "https://images.unsplash.com/photo-1577937927133-66ef06acdf18?auto=format&fit=crop&w=700&q=85",
     description:
